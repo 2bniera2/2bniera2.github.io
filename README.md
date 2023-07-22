@@ -6,5 +6,5 @@ A Chip 8 interpreter implemented in python and pygame.
 ### [Game of Life](https://github.com/arrrayyy/gameoflife)
 Terminal based Conway's Game of Life implemented in Java over a finite grid.
 ## Links
-### [Github](https://github.com/arrrayyy)https://github.com/arrrayyy)
+### [Github](https://github.com/arrrayyy)
 ### [Linkedin](https://www.linkedin.com/in/raumaan-ahmed-3a46131bb/) 
